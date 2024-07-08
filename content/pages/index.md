@@ -5,10 +5,11 @@ sections:
   - type: HeroSection
     title: La Tribu
     subtitle: Cuidado veterinario integral para tu mascota
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: >+
+      ##### Un equipo de veterinarios expertos y apasionados que se preocupan
+      por la salud y el bienestar de tu peludito.
+
+
     actions:
       - type: Button
         label: Start Building
